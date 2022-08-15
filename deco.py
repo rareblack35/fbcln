@@ -125,7 +125,7 @@ class Main:
 			os.system('clear')
 			print (random.choice(logo))
 			logo2 = '''\n\033[1;33;40m============================
-\033[1;36;40m[-•_•-] Please wait Razib bro__
+\033[1;36;40m[-•_•-] Please wait bro__
 [-•_•-] Total : Unlimited
 [-•_•-] Craking by reaz !!
 \033[1;33;40m============================
@@ -184,7 +184,7 @@ if len(sys.argv) == 2:
 		print(" [*] Team      : reaz  \n")
 		print(" [ Sosial Media  ]fb.com/reaz656 \n")
 		print(" [*] Facebook  : Reaz Uddin ")
-		exit("\t\t\tTHANK YOU  Bro Razib !!")
+		exit("\t\t\tTHANK YOU  Bro !!")
 	else:
 		Main()
  
